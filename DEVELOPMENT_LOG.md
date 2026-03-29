@@ -13,87 +13,100 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Example Entry Format:
 
-### Entry 1 - [April 1, 2026, 2:30 PM]
-**What I did**: Forked the repository and set up my student ID
-
+### Entry 1 - [March  27, 2026, 1:48 AM]
+**What I did**: Setup project and GitHub
 **Details**: 
 - Created GitHub account with university email
-- Forked the starter repository
-- Changed student ID on line 92 to my actual ID (441234567)
+- Forked repository
+- Changed student ID on line 181 to my actual ID (445050233)
 - Compiled and ran the program successfully
 
-**Challenges**: Had to install JDK first because javac wasn't recognized
+**Challenges**:  Git setup
 
-**Solution**: Downloaded JDK 17 from Oracle website and set PATH variable
+**Solution**: Followed tutorial
 
-**Time spent**: 30 minutes
+**Time spent**: 1 hour
 
 ---
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March  27, 2026, 1:48 AM]
+**What I did**: Setup project and GitHub
 
 **Details**: 
+- Created GitHub account with university email
+- Forked repository
+- Changed student ID on line 181 to my actual ID (445050233)
+- Compiled and ran the program successfully
 
-**Challenges**: 
+**Challenges**: Git setup 
 
-**Solution**: 
+**Solution**: Followed tutorial
 
-**Time spent**: 
+**Time spent**: 1 hour
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [March  27, 2026, 11:59 PM]
+**What I did**: Implemented Feature 1
 
 **Details**: 
+- Added priority variable
+- Displayed priority in output
 
-**Challenges**: 
+**Challenges**: Constructor confusion
 
-**Solution**: 
+**Solution**: Kept constructor unchanged
 
-**Time spent**: 
+**Time spent**: 1.5 hours
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March  28, 2026, 2:11 AM]
+**What I did**: Implemented Feature 2
 
 **Details**: 
+- Added context switch counter
+- Printed result
 
-**Challenges**: 
 
-**Solution**: 
+**Challenges**: Where to print
 
-**Time spent**: 
+**Solution**: Added before end of main
+
+**Time spent**: 2 hour
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 - [March  28, 2026, 5:59 AM]
+**What I did**: Implemented Feature 3
 
 **Details**: 
+- Added waiting time variables
+- Created updateWaitingTime method
 
-**Challenges**: 
 
-**Solution**: 
+**Challenges**: Accessing private variables
 
-**Time spent**: 
+**Solution**: Used method instead
+
+**Time spent**: 2 hours
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [March  29, 2026, 8:02 PM]
+**What I did**: Testing and debugging
 
 **Details**: 
+- Fixed errors
+- Verified output
 
-**Challenges**: 
+**Challenges**: Logic errors
 
-**Solution**: 
+**Solution**:  Step-by-step debugging
 
-**Time spent**: 
+**Time spent**: 1 hour
 
 ---
 
@@ -112,10 +125,10 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [3 days]
 
-**Most challenging part**: 
+**Most challenging part**: Feature 3
 
-**Most interesting learning**: 
+**Most interesting learning**: Thread scheduling
 
-**What I would do differently next time**: 
+**What I would do differently next time**: Start earlier and test each feature separately
